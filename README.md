@@ -1,48 +1,51 @@
 # Azure Language Studio
 
-O Azure Language Studio é uma poderosa plataforma da Microsoft que oferece uma variedade de serviços de Processamento de Linguagem Natural (NLP) para ajudar a construir aplicativos inteligentes e contextualmente conscientes.
+O Azure Language Studio Ã© uma poderosa plataforma da Microsoft que oferece uma variedade de serviÃ§os de Processamento de Linguagem Natural (NLP) para ajudar a construir aplicativos inteligentes e contextualmente conscientes.
 
 ## Recursos
 
 O Azure Language Studio oferece uma ampla gama de recursos para processamento de linguagem natural, incluindo:
 
-- **Análise de Sentimento:** Identifique o sentimento por trás do texto, determinando se é positivo, negativo ou neutro.
-- **Detecção de Idioma:** Detecte automaticamente o idioma de um texto.
-- **Identificação de Entidades:** Extraia entidades-chave, como pessoas, locais, organizações e muito mais, de um texto.
-- **Tradução de Texto:** Traduza texto de e para uma variedade de idiomas.
-- **Geração de Linguagem Natural:** Crie texto de linguagem natural com base em modelos pré-treinados.
+- **AnÃ¡lise de Sentimento:** Identifique o sentimento por trÃ¡s do texto, determinando se Ã© positivo, negativo ou neutro.
+- **DetecÃ§Ã£o de Idioma:** Detecte automaticamente o idioma de um texto.
+- **IdentificaÃ§Ã£o de Entidades:** Extraia entidades-chave, como pessoas, locais, organizaÃ§Ãµes e muito mais, de um texto.
+- **TraduÃ§Ã£o de Texto:** Traduza texto de e para uma variedade de idiomas.
+- **GeraÃ§Ã£o de Linguagem Natural:** Crie texto de linguagem natural com base em modelos prÃ©-treinados.
 
-## Como Começar
+## Como ComeÃ§ar
 
-Para começar a usar o Azure Language Studio, siga estas etapas:
+Para comeÃ§ar a usar o Azure Language Studio, siga estas etapas:
 
-1. **Criar uma conta no Azure:** Se você ainda não tem uma, crie uma conta gratuita no [Azure](https://azure.microsoft.com/).
+1. **Criar uma conta no Azure:** Se vocÃª ainda nÃ£o tem uma, crie uma conta gratuita no [Azure](https://azure.microsoft.com/).
 
-2. **Acessar o Azure Portal:** Faça login no [Azure Portal](https://portal.azure.com/).
+2. **Acessar o Azure Portal:** FaÃ§a login no [Azure Portal](https://portal.azure.com/).
 
-3. **Explorar os Serviços do Azure Language Studio:
- No portal, navegue até a seção de Serviços de IA e procure pelo Azure Language Studio. Clique para saber mais sobre os serviços oferecidos.
+3. **Explorar os ServiÃ§os do Azure Language Studio:
+ No portal, navegue atÃ© a seÃ§Ã£o de ServiÃ§os de IA e procure pelo Azure Language Studio. Clique para saber mais sobre os serviÃ§os oferecidos.
 
-4. **Criar Recursos:** Crie os recursos necessários para começar a usar os serviços do Azure Language Studio.
+4. **Criar Recursos:** Crie os recursos necessÃ¡rios para comeÃ§ar a usar os serviÃ§os do Azure Language Studio.
 
-5. **Configurar Credenciais:** Obtenha as credenciais necessárias para autenticar sua aplicação com os serviços do Azure Language Studio.
+5. **Configurar Credenciais:** Obtenha as credenciais necessÃ¡rias para autenticar sua aplicaÃ§Ã£o com os serviÃ§os do Azure Language Studio.
 
-6. **Explorar a Documentação:** Consulte a documentação oficial do Azure Language Studio para aprender a utilizar os serviços, realizar chamadas de API, e muito mais.
+6. **Explorar a DocumentaÃ§Ã£o:** Consulte a documentaÃ§Ã£o oficial do Azure Language Studio para aprender a utilizar os serviÃ§os, realizar chamadas de API, e muito mais.
 
-7. **Integrar com sua Aplicação:** Integre os serviços do Azure Language Studio em sua aplicação para obter insights valiosos de texto.
+7. **Integrar com sua AplicaÃ§Ã£o:** Integre os serviÃ§os do Azure Language Studio em sua aplicaÃ§Ã£o para obter insights valiosos de texto.
 
 ## Suporte
 
-Se você tiver dúvidas ou encontrar problemas ao usar o Azure Language Studio, consulte a documentação oficial ou entre em contato com o suporte técnico da Microsoft.
+Se vocÃª tiver dÃºvidas ou encontrar problemas ao usar o Azure Language Studio, consulte a documentaÃ§Ã£o oficial ou entre em contato com o suporte tÃ©cnico da Microsoft.
 
 ## Recursos Adicionais
 
-- [Documentação Oficial do Azure Language Studio](https://docs.microsoft.com/azure/cognitive-services/language-service/)
-- [Página Oficial do Azure Language Studio](https://azure.microsoft.com/services/language-studio/)
+- [DocumentaÃ§Ã£o Oficial do Azure Language Studio](https://docs.microsoft.com/azure/cognitive-services/language-service/)
+- [PÃ¡gina Oficial do Azure Language Studio](https://azure.microsoft.com/services/language-studio/)
 
-## Licença
+## LicenÃ§a
 
-Consulte a [licença](https://github.com/Azure/azure-language-services/blob/main/LICENSE) oficial do Azure Language Studio para obter informações sobre os termos de uso e distribuição.
+Consulte a [licenÃ§a](https://github.com/Azure/azure-language-services/blob/main/LICENSE) oficial do Azure Language Studio para obter informaÃ§Ãµes sobre os termos de uso e distribuiÃ§Ã£o.
+
+![azure3](https://github.com/mateusw2705/AzureAnaliseTexto/assets/112732200/f2da79a1-3a35-425e-964d-d8d1ca99a5a2)
+
 
 ```json
 {
@@ -65,7 +68,7 @@ Consulte a [licença](https://github.com/Azure/azure-language-services/blob/main/
                     },
                     "offset": 0,
                     "length": 37,
-                    "text": "hoje é um dia muito especial para mim",
+                    "text": "hoje Ã© um dia muito especial para mim",
                     "targets": [],
                     "assessments": []
                 }
